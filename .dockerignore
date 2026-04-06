@@ -1,0 +1,6 @@
+venv/
+land_cover_env/
+__pycache__/
+.pytest_cache/
+.github/
+.git/
